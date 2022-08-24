@@ -42,5 +42,6 @@ int main()
 
     //Remember about ++a, a++, a--, --a and any number also charecter, like 5 also a cherecter
 
+    
     return 0;
 }
